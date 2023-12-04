@@ -1,0 +1,4 @@
+flask
+guniccorn
+tensorflow
+numpy
